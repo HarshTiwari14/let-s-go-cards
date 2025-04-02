@@ -10,7 +10,6 @@
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Project Description
 
@@ -72,12 +71,3 @@ Contributions are welcome! To contribute:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
-## Acknowledgments
-
-- [freeCodeCamp's Guide on Writing a Good README](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
-- [Make a README](https://www.makeareadme.com/)
-
----
-
-*Note: This `README.md` is structured to provide a clear and concise overview of the project, following best practices for open-source documentation.*
-``` 
